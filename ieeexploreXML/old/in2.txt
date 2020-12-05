@@ -1,0 +1,13 @@
+what;when;where;like;that
+welcome;ieee;xtreme;ieeextreme;programming
+<title>Welcome to IEEEXtreme!</title>
+<keyword>welcome, ieeextreme</keyword>
+<abstract>
+Welcome!Participants!!!
+IEEE Xtreme is a global challenge in which teams of IEEE Student members, advised and proctored by an IEEE member, and often supported by an IEEE Student Branch.
+Compete in a twentyfour hour timespan against each other to solve a set of ...XtremE... programming problems in IEEEXtreme.
+</abstract>
+<body>WELCOME. wel.come... Are you ready? Good luck and have fun in xtreme!</body>
+<other>
+Mark your calender and don't miss the action.
+</other>
